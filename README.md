@@ -33,6 +33,8 @@ Ao executar o arquivo compilado aparecerá uma tela com o nome do Jogo e ao aper
 
 ### Menu
 
+![Captura de tela de 2020-04-27 14-08-48](https://user-images.githubusercontent.com/61848846/80439690-775db000-88dd-11ea-8c58-61ff66e53784.png?w=10)
+
 O menu é divídido em 5 opções:
 1. Jogar
    * Ao entrar nessa o jogador tem quatro opções: Jogar criando um replay, acessando um replay já existente, jogar sem utilizar ou criar um replay e voltar ao menu principal. A mecanica do replay funciona da seguinte maneira: você cria ou acessa um arquivo .txt que já contem as peças que foram salvas em uma partida.
