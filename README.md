@@ -1,4 +1,4 @@
-# PuzzleBobble
+# PuzzleBobble :joystick:
 
 Este projeto foi realizado no primeiro semestre do curso de Ciência da Computação (Bacharelado) na UnB (Universidade de Brasília). Seu objetivo era implementar um jogo 2D similar ao Puzzle Bobble utilizando todos os conhecimentos obtidos durante o semestre sobre a linguagem C (bibliotecas, matrizes, strings, funções, variáveis globais e ponteiros).
 
